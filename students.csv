@@ -1,0 +1,21 @@
+Student_ID,Name,Department,Python,Pandas,NumPy,Data_Analysis,Attendance
+S001,Aarav Sharma,CSE,88,82,91,86,92
+S002,Vivaan Kumar,CSE,76,81,74,79,84
+S003,Aditya Singh,CSE,92,89,95,90,96
+S004,Arjun Verma,IT,68,72,65,70,78
+S005,Rohan Gupta,IT,81,77,83,80,88
+S006,Yash Raj,CSE,59,64,61,66,72
+S007,Kunal Mishra,ECE,73,69,78,75,81
+S008,Harsh Vardhan,ECE,45,52,49,56,68
+S009,Ayush Tiwari,CSE,87,91,84,89,94
+S010,Dev Kumar,IT,62,58,67,64,76
+S011,Ankit Yadav,ECE,79,74,71,77,85
+S012,Mohit Saini,CSE,51,48,55,53,69
+S013,Priyanshu Rai,IT,94,90,88,93,97
+S014,Rahul Chauhan,ECE,66,61,70,68,79
+S015,Nikhil Patel,CSE,84,86,80,82,91
+S016,Aman Singh,IT,32,34,38,30,62
+S017,Shivam Gupta,ECE,71,76,68,73,83
+S018,Saurabh Kumar,CSE,89,85,92,87,95
+S019,Vikas Sharma,IT,57,63,59,61,71
+S020,Manish Kumar,ECE,30,28,36,32,65

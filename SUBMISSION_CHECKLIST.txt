@@ -1,0 +1,15 @@
+EWB Python Project Submission Checklist
+
+[ ] main.py tested
+[ ] functions.py tested
+[ ] students.csv included
+[ ] student_performance_report.csv generated
+[ ] README.md included
+[ ] Project_Documentation.md completed
+[ ] Add screenshots to documentation
+[ ] Create GitHub repository
+[ ] Push all files to GitHub
+[ ] Add GitHub URL to README and documentation
+[ ] Submit GitHub URL through EWB Google Form
+
+Deadline: 15 October 2026
